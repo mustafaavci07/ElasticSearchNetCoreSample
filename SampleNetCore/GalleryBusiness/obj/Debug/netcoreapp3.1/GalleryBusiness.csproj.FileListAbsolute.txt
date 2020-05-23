@@ -1,0 +1,13 @@
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csprojAssemblyReference.cache
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfoInputs.cache
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfo.cs
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.deps.json
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryCommon.dll
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryData.dll
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryCommon.pdb
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryData.pdb
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CopyComplete
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.pdb

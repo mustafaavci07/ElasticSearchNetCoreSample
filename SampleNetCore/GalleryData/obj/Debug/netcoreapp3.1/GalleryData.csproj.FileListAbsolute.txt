@@ -1,0 +1,11 @@
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\bin\Debug\netcoreapp3.1\GalleryData.deps.json
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\bin\Debug\netcoreapp3.1\GalleryData.dll
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\bin\Debug\netcoreapp3.1\GalleryData.pdb
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\bin\Debug\netcoreapp3.1\GalleryCommon.dll
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\bin\Debug\netcoreapp3.1\GalleryCommon.pdb
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\obj\Debug\netcoreapp3.1\GalleryData.csprojAssemblyReference.cache
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\obj\Debug\netcoreapp3.1\GalleryData.AssemblyInfoInputs.cache
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\obj\Debug\netcoreapp3.1\GalleryData.AssemblyInfo.cs
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\obj\Debug\netcoreapp3.1\GalleryData.csproj.CopyComplete
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\obj\Debug\netcoreapp3.1\GalleryData.dll
+C:\Users\NMAVCI\source\repos\SampleNetCore\GalleryData\obj\Debug\netcoreapp3.1\GalleryData.pdb
